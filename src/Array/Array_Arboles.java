@@ -63,4 +63,19 @@ public class Array_Arboles{
         return cad; //si no retonas la cadena te da error evidentemente
     }
 
+    /*
+    public byte buscarPaciente(short noFolio) {
+	    byte i = 0;
+	    while (i <= j) {
+	        if (noFolio == medico[i].getNoFolio()) // Comparar directamente los valores de noFolio
+	            return i;
+	        i++; // Incrementar el índice para pasar al siguiente paciente
+	    }
+	    return -1; // Retornar -1 si el paciente con el noFolio dado no se encuentra en el arreglo
+	}
+
+	**ESTO NO TIENE NADA QUE VER CON ESTA CLASE, SOLAMENTE ES PARA QUE VEAS COMO HACER
+	PARA "BUSCAR UN USUARIO"
+     */
+
 }
